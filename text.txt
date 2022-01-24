@@ -1,5 +1,0 @@
-zzzzzz
-<<<<<<< HEAD
-qqq
-=======
->>>>>>> e0004c7b3d29da0754ee55785997faaf9f120fdf
